@@ -1,0 +1,4 @@
+django-model-utils>=2.0
+# Additional requirements go here
+django>=3.2<=4.0
+python-flutterwave>=0.5.9
